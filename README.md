@@ -1,2 +1,2 @@
-# 66daysofcode-day 2
+# 66daysofcode-day
 mnist digit recognition
